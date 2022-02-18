@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @plastic-bottleneck
+- 👀 I’m interested in all sorts of old computers
+- 🌱 I’m currently learning how to break the matrix
+- 📫 How to reach me isn't simple :)
+- :hot_face: btw thanks GitHub for this example!
