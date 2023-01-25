@@ -77,7 +77,7 @@ Software which is used by me:
 ## Additional Info
 
 1. Who can use my stuff?  
-Actually everyone. I don't have any license on anything here (yet). So you can pull the code and change it of your likes. **Please don't steal my work and say it's yours.**  
+Actually everyone. **Please don't steal my work and say it's yours.** That's everything.  
 
 &nbsp;  
 Thank you very much :)
