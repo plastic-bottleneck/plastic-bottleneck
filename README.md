@@ -48,7 +48,7 @@ What operatingsystems I use:
 
 Software which is used by me:
 - WM:
-    - [DWM](https://suckless.org/dwm/)
+    - [DWM](https://dwm.suckless.org/)
     - [BSPWM](https://github.com/baskerville/bspwm)  
 - DE:
     - [XFCE4](https://xfce.org)
