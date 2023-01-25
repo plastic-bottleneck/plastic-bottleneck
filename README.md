@@ -55,7 +55,7 @@ Software which is used by me:
 
 - Communication:  
     - [ii](https://tools.suckless.org/ii/)
-    - [Discord](https://discord.org/)  
+    - [Discord](https://discord.com/)  
 - Terminal:
     - [st](https://tools.suckless.org/st)
     - [alacritty](https://alacritty.org/)
