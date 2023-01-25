@@ -68,9 +68,9 @@ Software which is used by me:
     - [lf](https://github.com/gokcehan/lf)
     - [Thunar](https://docs.xfce.org/xfce/thunar/start)
 - Webbrowser:
-    - [Firefox]()
-    - [Librewolf]()
-    - [lynx]()
+    - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+    - [Librewolf](https://librewolf.net/)
+    - [lynx](https://lynx.invisible-island.net/)
 
 ---
 
