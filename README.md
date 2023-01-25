@@ -57,11 +57,11 @@ Software which is used by me:
     - [ii](https://tools.suckless.org/ii/)
     - [Discord](https://discord.com/)  
 - Terminal:
-    - [st](https://tools.suckless.org/st)
+    - [st](https://st.suckless.org/)
     - [alacritty](https://alacritty.org/)
 - Shell:
     - [BASH](https://www.gnu.org/software/bash/)
-    - [ZSH](zsh.org)
+    - [ZSH](https://zsh.org/)
     - [ash](https://www.in-ulm.de/~mascheck/various/ash/)
     - [dash](http://gondor.apana.org.au/~herbert/dash/)
 - Filemanagers:
