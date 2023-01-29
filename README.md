@@ -5,7 +5,6 @@
 ---
 ## Tux my beloved
 ![Tux](https://github.com/plastic-bottleneck/plastic-bottleneck/blob/main/Screenshot%202023-01-29%20at%2019-37-56%20Tux%20Sticker%20by%20tttttm.png)
----
 ## Who is Paul?
 Paul, alias Plastic Bottleneck is obviously me.  
 I live in Germany such as my idol [the suckless guys](https://suckless.org/) team with their great and simple software which just "sucks less".  
