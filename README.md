@@ -2,13 +2,11 @@
 >Hi and welcome to the GitHub mainpage from me!  
 >Have a look around and enjoy!
 &nbsp;  
----
-## Tux my beloved
-![Tux](https://github.com/plastic-bottleneck/plastic-bottleneck/blob/main/Screenshot%202023-01-29%20at%2019-37-56%20Tux%20Sticker%20by%20tttttm.png)
+
 ## Who is Paul?
 Paul, alias Plastic Bottleneck is obviously me.  
-I live in Germany such as my idol [the suckless guys](https://suckless.org/) team with their great and simple software which just "sucks less".  
-I like playing instruments succh as the piano and the organ etc.. I also love working with computers from any age. Mostly before the 2000's. My oldest one is out from 1955 which is a ```SPERRY UNIVAC```. My newer ones are C64's, C128's, HP's, IBM's, etc.. I have 31 computers in total and got them all together over the years. I also love programming in C, x86_64 Assembly, 6502 Assembly, Altair 8800 binary, Microsoft basic (C64 etc...), Fortra, bash and python.
+I live in Germany such as my idol [the suckless guys](https://suckless.org/) team with their great and simple software which is just "sucks less" like their name says.  
+I like playing instruments such as piano and organ etc.. I also love working with computers from any age. Mostly before the 2000s. My oldest one is out from 1955 which is a ```SPERRY UNIVAC```. My newer ones are C64s(), C128(s), HP(s), IBM(s), etc.. I have 31 computers in total and got them all together over the years. I also love programming in C, x86_64 Assembly, 6502 Assembly, Altair 8800 binary, Microsoft basic (C64 etc...), Fortran, bash (and python).
 
 ---
 
