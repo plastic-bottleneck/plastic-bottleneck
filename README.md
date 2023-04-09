@@ -12,7 +12,7 @@ I like playing instruments such as piano and organ etc.. I also love working wit
 
 ## Main Project - Plus-Linux 0.4.0
 
-### **NEWS: Plus Linux will come in the next beta soon - 0.5 with the latest new Kernel and some new featurews!**
+### **NEWS: Plus Linux will come in the next beta soon - 0.5 with the latest new Kernel and some new features!**
 
 Plus Linux is based on Kernel 5.19.1 at a small size. 
 It also uses busybox instead of GNU. I may make my own coreutils in C later to make it even smaller and with less bloat. 
