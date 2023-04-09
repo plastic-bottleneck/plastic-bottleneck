@@ -6,11 +6,13 @@
 ## Who is Paul?
 Paul, alias Plastic Bottleneck is obviously me.  
 I live in Germany such as my idol [the suckless guys](https://suckless.org/) team with their great and simple software which is just "sucks less" like their name says.  
-I like playing instruments such as piano and organ etc.. I also love working with computers from any age. Mostly before the 2000s. My oldest one is out from 1955 which is a ```SPERRY UNIVAC```. My newer ones are C64s(), C128(s), HP(s), IBM(s), etc.. I have 31 computers in total and got them all together over the years. I also love programming in C, x86_64 Assembly, 6502 Assembly, Altair 8800 binary, Microsoft basic (C64 etc...), Fortran, bash (and python).
+I like playing instruments such as piano and organ etc.. I also love working with computers from any age. Mostly before the 2000s. My oldest one is out from 1955 which is a ```SPERRY UNIVAC```. My newer ones are C64(s), C128(s), HP(s), IBM(s), etc.. I have 31 computers in total and got them all together over the years. I also love programming in C, x86_64 Assembly, 6502 Assembly, Altair 8800 binary, Microsoft basic (C64 etc...), Fortran, bash (and python).
 
 ---
 
 ## Main Project - Plus-Linux 0.4.0
+
+### **NEWS: Plus Linux will come in the next beta soon - 0.5 with the latest new Kernel and some new featurews!**
 
 Plus Linux is based on Kernel 5.19.1 at a small size. 
 It also uses busybox instead of GNU. I may make my own coreutils in C later to make it even smaller and with less bloat. 
