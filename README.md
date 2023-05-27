@@ -12,7 +12,7 @@ I'm a student out of Germany who enjoys working with computers and general techn
 I'm currently studying church music and with that love playing piano and pipe organ. I'm also interested into science such as the anatomy of the human body (general biology), astronomy, weather geology, radio physics, chemistry and computer science!
 
 I also really enjoy collecting computers and got 32 together after a few years. My oldest one is the Sperry Univac out of 1955. 
-I am fascinated from the 6502 processor and there for have two C64's. I really like Commodore as a company which sadly went bankrupt back then... But IBM runs my server since years without and errors.
+I am fascinated from the 6502 processor and there for have two C64's. I really like Commodore as a company which sadly went bankrupt back then... But IBM runs my server since years without any errors.
 
 Having many computer let me sink into their different architectures of CPU's. There for can I like writing in 6502 assembler, some Risc-V, x86_64 assembly, ARM and C my beloved.
 I want to try Rust one day since Linus gave better support for Rust inside the newer Linux kernels.
