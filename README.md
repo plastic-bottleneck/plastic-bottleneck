@@ -1,91 +1,57 @@
-# Welcome to Pauls Main GitHub page!  
->Hi and welcome to the GitHub mainpage from me!  
->Have a look around and enjoy!
-&nbsp;  
+# Welcome to Paul's Main GitHub page!
 
-## Who is Paul?
-Paul, alias Plastic Bottleneck is obviously me.  
-I live in Germany such as my idol [the suckless guys](https://suckless.org/) team with their great and simple software which is just "sucks less" like their name says.  
-I like playing instruments such as piano and organ etc.. I also love working with computers from any age. Mostly before the 2000s. My oldest one is out from 1955 which is a ```SPERRY UNIVAC```. My newer ones are C64(s), C128(s), HP(s), IBM(s), etc.. I have 31 computers in total and got them all together over the years. I also love programming in C, x86_64 Assembly, 6502 Assembly, Altair 8800 binary, Microsoft basic (C64 etc...), Fortran, bash (and python).
+> Hi and welcome to the GitHub main page!
+> Have a look around and enjoy!  
 
----
+## About me:
 
-## Main Project - Plus-Linux 0.4.0
+Hi,
+my name is Paul, maintainer of this GitHub page.
+I'm a student out of Germany who enjoys working with computers and general technology before the 2000's era.
 
-### **NEWS: Plus Linux will come in the next beta soon - 0.5 with the latest new Kernel and some new features!**
+I'm currently studying church music and with that love playing piano and pipe organ. I'm also interested into science such as the anatomy of the human body (general biology), astronomy, weather geology, radio physics, chemistry and computer science!
 
-Plus Linux is based on Kernel 5.19.1 at a small size. 
-It also uses busybox instead of GNU. I may make my own coreutils in C later to make it even smaller and with less bloat. 
+I also really enjoy collecting computers and got 32 together after a few years. My oldest one is the Sperry Univac out of 1955. 
+I am fascinated from the 6502 processor and there for have two C64's. I really like Commodore as a company which sadly went bankrupt back then... But IBM runs my server since years without and errors.
 
-*Plus Linux is really buggy because it's still in Alpha*
+Having many computer let me sink into their different architectures of CPU's. There for can I like writing in 6502 assembler, some Risc-V, x86_64 assembly, ARM and C my beloved.
+I want to try Rust one day since Linus gave better support for Rust inside the newer Linux kernels.
 
-## What it offers:
-1. Main:
-    - Plus Linux is based on Kernel 5.19.1 (Will be updated soon)
-    - It's using Busybox as the systemutils
-    - With that it is complete GNU and Systemd free
-2. Goals:
-    - To fit on a single floppy drive (1.44Mb)
-    - Having less bloat than other distros like U*untu
-    - Trying to be stable (even though it isn't at the moment)
+## My setup:
 
-## A screenshot of Plus Linux 0.4.0
-![Plus-Linux-Screenshot](https://github.com/plastic-bottleneck/Plus-Linux/blob/main/Images/Plus-Linux-0.4.0.jpg)
+![bspwm-rice](https://github.com/plastic-bottleneck/bspwm-rice/blob/main/image.png)
 
-> Get Plus Linux at my GitHub page: https://github.com/plastic-bottleneck/plus-linux/
----
+> This is my desktop setup with [bspwm](https://github.com/plastic-bottleneck/bspwm-rice) on Arch Linux!
 
-## Technical Information
-My Main Computer specs:  
-- ```AMD Ryzen 7 5700G```
-- ```32GB DDR4 RAM```
-- ```1TB HDD Slave```
-- ```512GB SSD Slave```
-- ```128GB SSD Bootdrive```
+### My main PC specs:
 
-What operatingsystems I use:
-- [Gentoo](https://gentoo.org/)
-- [Arch](https://archlinux.org/)
-- [Artix](https://artixlinux.org/)
-- [Debian Server](https://debian.org/)
+|Part|Type|
+|---|---|
+|APU|Ryzen 7 5700G|
+|RAM|32GB|
+|SSD BOOT|128GB|
+|SSD DATA1|512GB|
+|HDD DATA2|2TB|
+|SCREEN|1920x1080|
 
-Software which is used by me:
-- WM:
-    - [DWM](https://dwm.suckless.org/)
-    - [BSPWM](https://github.com/baskerville/bspwm)  
-- DE:
-    - [XFCE4](https://xfce.org)
-- Communication:  
-    - [ii](https://tools.suckless.org/ii/)
-    - [Discord](https://discord.com/)  
-- Terminal:
-    - [st](https://st.suckless.org/)
-    - [alacritty](https://alacritty.org/)
-- Shell:
-    - [BASH](https://www.gnu.org/software/bash/)
-    - [ZSH](https://zsh.org/)
-    - [ash](https://www.in-ulm.de/~mascheck/various/ash/)
-    - [dash](http://gondor.apana.org.au/~herbert/dash/)
-- Filemanagers:
-    - [lf](https://github.com/gokcehan/lf)
-    - [Thunar](https://docs.xfce.org/xfce/thunar/start)
-- Webbrowser:
-    - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-    - [Librewolf](https://librewolf.net/)
-    - [lynx](https://lynx.invisible-island.net/)
+### My software specs:
+
+|Type|Name|
+|---|---|
+|OS|Arch Linux amd64|
+|Shell|Bash|
+|Terminal|Alacritty|
+|Display server|Xorg|
+|WM|bspwm|
+|Compositor|Picom|
+|Browser|Firefox|
 
 ---
 
-## Additional Info
+## Projects - Plus Linux 0.4.0
 
-1. Who can use my stuff?  
-Actually everyone. **Please don't steal my work and say it's yours.** That's everything.  
+> Plus Linux is a GNU free Linux distro which fits on a floppy disc!
+> It has some small features and  will be soon replaced with a bigger distro I'm working on!
+> Updates for this project will be not many anymore. The next one will be the last bringing Plus Linux on the latest LTS kernel to hold it stable.
 
-&nbsp;  
-Thank you very much :)
-&nbsp;  
-
-__Paul - Plastic Bottleneck__
-&nbsp;  
-> https://github.org/plastic-bottleneck/  
-> (C)2023 Plastic Bottleneck
+![plus](https://github.com/plastic-bottleneck/Plus-Linux/blob/main/Images/Plus-Linux-0.4.0.jpg)
