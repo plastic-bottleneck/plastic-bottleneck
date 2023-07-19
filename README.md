@@ -68,7 +68,7 @@ I want to try Rust one day since Linus gave better support for Rust inside the n
 
 ---
 
-## //Projects - Plus Linux 0.4.0
+## //Projects - Plus Linux 0.4.0 (discontinued)
 
 > Plus Linux is a GNU free Linux distro which fits on a floppy disc!
 > It has some small features and  will be soon replaced with a bigger distro I'm working on!
