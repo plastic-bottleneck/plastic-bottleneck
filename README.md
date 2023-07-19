@@ -3,7 +3,7 @@
 > Hi and welcome to the GitHub main page!
 > Have a look around and enjoy!  
 
-## About me:
+## //About me:
 
 Hi,
 my name is Paul, maintainer of this GitHub page.
@@ -31,7 +31,11 @@ I want to try Rust one day since Linus gave better support for Rust inside the n
   `--'   `--'
 ```
 
-## My setup:
+## //Social:
+> Email: plastic-bottleneck@protonmail.com  
+> Website: http://plastic-bottleneck.42web.io  
+
+## //My setup:
 
 ![dwm-rice](https://github.com/plastic-bottleneck/dwm-rice/blob/main/image.png)
 
@@ -64,7 +68,7 @@ I want to try Rust one day since Linus gave better support for Rust inside the n
 
 ---
 
-## Projects - Plus Linux 0.4.0
+## //Projects - Plus Linux 0.4.0
 
 > Plus Linux is a GNU free Linux distro which fits on a floppy disc!
 > It has some small features and  will be soon replaced with a bigger distro I'm working on!
