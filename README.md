@@ -17,34 +17,50 @@ I am fascinated from the 6502 processor and there for have two C64's. I really l
 Having many computer let me sink into their different architectures of CPU's. There for can I like writing in 6502 assembler, some Risc-V, x86_64 assembly, ARM and C my beloved.
 I want to try Rust one day since Linus gave better support for Rust inside the newer Linux kernels.
 
+```
+  ,-.       _,---._ __  / \
+ /  )    .-'       `./ /   \
+(  (   ,'            `/    /|
+ \  `-"             \'\   / |
+  `.              ,  \ \ /  |
+   /`.          ,'-`----Y   |
+  (            ;        |   '
+  |  ,-.    ,-'         |  /
+  |  | (   |       libs | /
+  )  |  \  `.___________|/
+  `--'   `--'
+```
+
 ## My setup:
 
-![bspwm-rice](https://github.com/plastic-bottleneck/bspwm-rice/blob/main/image.png)
+![dwm-rice](https://github.com/plastic-bottleneck/dwm-rice/blob/main/image.png)
 
-> This is my desktop setup with [bspwm](https://github.com/plastic-bottleneck/bspwm-rice) on Arch Linux!
+> This is my desktop setup with [dwm](https://github.com/plastic-bottleneck/dwm-rice) on Gentoo Linux!
 
 ### My main PC specs:
 
 |Part|Type|
 |---|---|
-|APU|Ryzen 7 5700G|
+|APU|Ryzen 7 5700G @ 4.6GHz|
 |RAM|32GB|
 |SSD BOOT|128GB|
 |SSD DATA1|512GB|
-|HDD DATA2|2TB|
+|HDD DATA2|256GB|
+|SSD DATA3|128GB|
+|HDD DATA4|160GB|
 |SCREEN|1920x1080|
 
 ### My software specs:
 
 |Type|Name|
 |---|---|
-|OS|Arch Linux amd64|
+|OS|Gentoo Linux|
 |Shell|Bash|
-|Terminal|Alacritty|
+|Terminal|st|
 |Display server|Xorg|
-|WM|bspwm|
+|WM|dwm|
 |Compositor|Picom|
-|Browser|Firefox|
+|Browser|Librewolf|
 
 ---
 
