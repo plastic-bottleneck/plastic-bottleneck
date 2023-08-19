@@ -70,8 +70,8 @@ I want to try Rust one day since Linus gave better support for Rust inside the n
 
 ## //Projects - Plus Linux 1.0
 
-> Plus Linux is a GNU free Linux distro which fits on a floppy disc!
-> It is build to be pretty small but usable for trying stuff out.
-> Currently it is on the LTS version of Linux 1.15.127.
+> Plus Linux is a GNU free Linux distro which fits on a floppy disc!  
+> It is build to be pretty small but usable for trying stuff out.  
+> Currently it is on the LTS version of Linux 1.15.127.  
 
 ![plus](https://github.com/plastic-bottleneck/Plus-Linux/blob/main/src/Plus-Linux.png)
