@@ -80,4 +80,4 @@ I want to try Rust one day since Linus gave better support for Rust inside the n
 |ed2|edit files with ed2|`ed [file]`|🟢|
 |mkdir|make directories|`mkdir [dir name]`|🔴|
 |mv|move a file/directory|`mv [file/directory] [/path/to/place]`|🔴|
-|bpsh|shell|-|🟢|
+|pbsh|shell|-|🟢|
