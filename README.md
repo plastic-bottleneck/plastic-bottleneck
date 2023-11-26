@@ -43,7 +43,7 @@ Having many computer let me sink into their different architectures of CPU's. Th
 
 |Type|Name|
 |---|---|
-|OS|Gentoo Linux|
+|OS|OpenBSD 7.4|
 |Shell|Bash|
 |Terminal|alacritty|
 |Display server|Xorg|
