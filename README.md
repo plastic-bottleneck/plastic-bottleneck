@@ -5,20 +5,31 @@
 
 ## //About me:
 
-Hi,
-my name is Paul, maintainer of this GitHub page.
-I'm a student out of Germany who enjoys working with computers and general technology before the 2000's era.
+Hi, 
+my name is Paul, the maintainer of this webpage.
+I'm a student from Germany who enjoys working with computers and general 
+technology, especially from the era before the 2000s.
 
-I'm currently studying church music and with that love playing piano and pipe organ. I'm also interested into science such as the anatomy of the human body (general biology), astronomy, weather geology, radio physics, chemistry and computer science!
+I'm currently studying church music and I love playing the piano and pipe organ. 
+I'm also interested in various scientific fields such as human anatomy 
+(general biology), astronomy, meteorology, geology, radio physics, chemistry, 
+and computer science!
 
-I also really enjoy collecting computers and got 32 together after a few years. My oldest one is the Sperry Univac out of 1955. 
-I am fascinated from the 6502 processor and there for have two C64's. I really like Commodore as a company which sadly went bankrupt back then... But IBM runs my server since years without any errors.
+I also take great pleasure in collecting computers and have gathered 38 of them 
+over the years. My oldest one is the Sperry Univac from 1955. 
+I'm fascinated by the 6502 processor and, as a result, own two C64's. 
+I have a deep appreciation for Commodore as a company, which unfortunately went 
+bankrupt back then. However, my server has been running IBM systems 
+for years without any errors.
 
-Having many computer let me sink into their different architectures of CPU's. There for can I like writing in 6502 assembler, some Risc-V, x86_64 assembly, ARM and C my beloved.  
+My collection of computers has allowed me to delve into 
+various CPU architectures. 
+As a result, I enjoy writing in 6502 assembler, some Risc-V, 
+x86_64 assembly, ARM, and C, which I particularly adore.
 
 ## //Social:
 > Email: plastic-bottleneck@protonmail.com  
-> Website: http://plastic-bottleneck.42web.io  
+> Website: http://plastic-bottleneck.github.io 
 
 ## //My setup:
 
