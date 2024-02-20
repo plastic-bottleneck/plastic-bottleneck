@@ -5,7 +5,6 @@
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/plastic-bottleneck)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/paul_2612)  
-![Website](https://img.shields.io/badge/Website?link=https%3A%2F%2Fplastic-bottleneck.github.io)
 
 ## //About me:
 
