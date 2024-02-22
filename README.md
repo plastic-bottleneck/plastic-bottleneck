@@ -27,8 +27,10 @@ for years without any errors.
 
 My collection of computers has allowed me to delve into 
 various CPU architectures. 
-As a result, I enjoy writing in 6502 assembler, some Risc-V, 
-x86_64 assembly, ARM, and C, which I particularly adore.
+As a result, I enjoy writing in 6502 and x86_64 assembler and C, which I particularly adore.  
+
+Why Unix?  
+Opting for Unix-based systems like OpenBSD and 9front as my daily drivers isn't just about practicality—it's about choosing reliability and finely crafted software. While some might find using 9front for everyday tasks unconventional, I see it as leveraging its exceptional capabilities, especially in scientific research. 9front goes beyond typical desktop operating systems; it excels in specialized usage. Meanwhile, when I need a platform capable of handling web browsing, including JavaScript and CSS, albeit at a slower pace, OpenBSD fits the bill. It's all about appreciating the elegance of well-engineered software solutions, where each line of code is a testament to skillful craftsmanship.
 
 ## //Social:
 > Email: plastic-bottleneck@protonmail.com  
