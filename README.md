@@ -70,7 +70,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/plastic-bottleneck/plastic-bottleneck/output/snake.svg" alt="Snake animation" />
-
-###
