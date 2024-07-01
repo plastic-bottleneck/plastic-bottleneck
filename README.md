@@ -1,96 +1,76 @@
-# _Welcome to Paul's Main GitHub page!_
+<br clear="both">
 
-> Hi and welcome to the GitHub main page!  
-> Have a look around and enjoy!  
+<div align="center">
+  <a href="https://x.com/plastic_42" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/1141056567626702999" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://matrix.to/#/@paul_26:matrix.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="52" height="40" alt="matrix logo"  />
+  </a>
+</div>
 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/plastic-bottleneck)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198884089827/)    
+###
 
-## //About me:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=plastic-bottleneck.plastic-bottleneck&"  />
+</div>
 
-Hi, 
-my name is Paul, the maintainer of this webpage.
-I'm a student from Germany who enjoys working with computers and general 
-technology, especially from the era before the 2000s.
+###
 
-I'm currently studying church music and I love playing the piano and pipe organ. 
-I'm also interested in various scientific fields such as human anatomy 
-(general biology), astronomy, meteorology, geology, radio physics, chemistry, 
-and computer science!
+<h1 align="center">Hi 👋</h1>
 
-I also take great pleasure in collecting computers and have gathered 38 of them 
-over the years. My oldest one is the Sperry Univac from 1955. 
-I'm fascinated by the 6502 processor and, as a result, own two C64's. 
-I have a deep appreciation for Commodore as a company, which unfortunately went 
-bankrupt back then. However, my server has been running IBM systems 
-for years without any errors.
+###
 
-My collection of computers has allowed me to delve into 
-various CPU architectures. 
-As a result, I enjoy writing in 6502 and x86_64 assembler and C, which I particularly adore.  
+<h3 align="left">👩‍💻  About Me</h3>
 
-Why Unix?  
-Opting for Unix-based systems like OpenBSD and 9front as my daily drivers isn't just about practicality—it's about choosing reliability and finely crafted software. While some might find using 9front for everyday tasks unconventional, I see it as leveraging its exceptional capabilities, especially in scientific research. 9front goes beyond typical desktop operating systems; it excels in specialized usage. Meanwhile, when I need a platform capable of handling web browsing, including JavaScript and CSS, albeit at a slower pace, OpenBSD fits the bill. It's all about appreciating the elegance of well-engineered software solutions, where each line of code is a testament to skillful craftsmanship.
+###
 
-## //Social:
-> Email: plastic-bottleneck@protonmail.com  
-> Website: http://plastic-bottleneck.github.io 
+<p align="left">🚀 I'm Paul (aka Plastic Bottleneck) from Germany<br><br>🔭 - I'm currently studying church music and I love playing the piano and pipe organ. I'm also interested in various scientific fields such as human anatomy (general biology), astronomy, meteorology, geology, radio physics, chemistry, and computer science!<br><br>🖥️ - I also take great pleasure in collecting computers and have gathered 38 of them over the years. My oldest one is the Sperry Univac from 1955. I'm fascinated by the 6502 processor and, as a result, own two C64's. I have a deep appreciation for Commodore as a company, which unfortunately went bankrupt back then. However, my server has been running IBM systems for years without any errors.<br><br>💾 - My collection of computers has allowed me to delve into various CPU architectures. As a result, I enjoy writing in 6502 and x86_64 assembler and C, which I particularly adore.</p>
 
-## //My setup:
+###
 
-> This is my desktop setup with [dwm](https://github.com/plastic-bottleneck/dwm-rice) on Gentoo Linux!
+<h3 align="left">🛠 Language and tools</h3>
 
-### My main PC specs:
+###
 
-|Part|Type|
-|---|---|
-|APU|Ryzen 7 5700G @ 4.6GHz|
-|RAM|32GB|
-|SSD BOOT|128GB|
-|SSD DATA1|512GB|
-|HDD DATA2|256GB|
-|SSD DATA3|128GB|
-|HDD DATA4|160GB|
-|SCREEN|1920x1080|
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="34" alt="c logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="34" alt="go logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="34" alt="unix logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" height="34" alt="gentoo logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" height="34" alt="vim logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" height="34" alt="firefox logo"  />
+</div>
 
-### My software specs:
+###
 
-|Type|Name|
-|---|---|
-|OS|OpenBSD 7.4|
-|Shell|Bash|
-|Terminal|alacritty|
-|Display server|Xorg|
-|WM|dwm|
-|Compositor|Picom|
-|Browser|Librewolf|
+<h3 align="left">🔥   My Stats :</h3>
 
-## //Projects 
+###
 
-### )( Plus Linux 1.0
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=plastic-bottleneck&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-> Plus Linux is a GNU free Linux distro which fits on a floppy disc!  
-> It is build to be pretty small but usable for trying stuff out.  
-> Currently it is on the LTS version of Linux 1.15.127.  
-> Get [here](https://github.com/plastic-bottleneck/Plus-Linux) to Plus Linux!  
+###
 
-![plus](https://github.com/plastic-bottleneck/Plus-Linux/blob/main/src/Plus-Linux.png)
+<br clear="both">
 
-### )( PUTILS
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=plastic-bottleneck&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=plastic-bottleneck&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-> PUTILS will be the coreutils for Plus Linux when they are finished.
-> Currently it has some basic functions like ls, etc.
-> It also includes [ED2](https://github.com/plastic-bottleneck/ed2) which I wrote from scratch in C for it to have a tiny text editor inspired by the best editor in the world - ed.
+###
 
-#### Here are the current utils which are available and planned: 
+<img src="https://raw.githubusercontent.com/plastic-bottleneck/plastic-bottleneck/output/snake.svg" alt="Snake animation" />
 
-|util|what it does|how to use|available|
-|---|---|---|---|
-|ls|lists files|`ls [-l] [/path/to/file]`|🟢|
-|cat|write out a file|`cat [file]`|🔴|
-|rm|remove a file/directory|`rm [file/directory]`|🔴|
-|cp|copy a file/directory|`cp [file/directory]`|🔴|
-|ed2|edit files with ed2|`ed [file]`|🟢|
-|mkdir|make directories|`mkdir [dir name]`|🔴|
-|mv|move a file/directory|`mv [file/directory] [/path/to/place]`|🔴|
-|pbsh|shell|-|🟢|
+###
