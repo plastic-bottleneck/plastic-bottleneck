@@ -1,0 +1,113 @@
+<svg width="1100" height="1630" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="100%" height="100%" fill="#140e05"/>
+
+  <foreignObject x="20" y="20" width="1060" height="1600">
+    <pre xmlns="http://www.w3.org/1999/xhtml"
+         style="
+           color:#ffb000;
+           font-family:monospace;
+           font-size:14px;
+           line-height:18px;
+           margin:0;
+           white-space:pre;
+           text-shadow:0 0 4px #ffb000;
+         ">
+ .--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--. 
+/ .. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \
+\ \/\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ \/ /
+ \/ /`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'\/ / 
+ / /\   ____    ___                     __                                           / /\ 
+/ /\ \ /\  _`\ /\_ \                   /\ \__  __                                   / /\ \
+\ \/ / \ \ \L\ \//\ \      __      ____\ \ ,_\/\_\    ___                           \ \/ /
+ \/ /   \ \ ,__/ \ \ \   /'__`\   /',__\\ \ \/\/\ \  /'___\                          \/ / 
+ / /\    \ \ \/   \_\ \_/\ \L\.\_/\__, `\\ \ \_\ \ \/\ \__/                          / /\ 
+/ /\ \    \ \_\   /\____\ \__/.\_\/\____/ \ \__\\ \_\ \____\                        / /\ \
+\ \/ /     \/_/   \/____/\/__/\/_/\/___/   \/__/ \/_/\/____/                        \ \/ /
+ \/ /                                                                                \/ / 
+ / /\                                                                                / /\ 
+/ /\ \  ____            __    __    ___                                 __          / /\ \
+\ \/ / /\  _`\         /\ \__/\ \__/\_ \                               /\ \         \ \/ /
+ \/ /  \ \ \L\ \    ___\ \ ,_\ \ ,_\//\ \      __    ___      __    ___\ \ \/'\      \/ / 
+ / /\   \ \  _ &lt;'  / __`\ \ \/\ \ \/ \ \ \   /'__`\/' _ `\  /'__`\ /'___\ \ , &lt;      / /\ 
+/ /\ \   \ \ \L\ \/\ \L\ \ \ \_\ \ \_ \_\ \_/\  __//\ \/\ \/\  __//\ \__/\ \ \\`\   / /\ \
+\ \/ /    \ \____/\ \____/\ \__\\ \__\/\____\ \____\ \_\ \_\ \____\ \____\\ \_\ \_\ \ \/ /
+ \/ /      \/___/  \/___/  \/__/ \/__/\/____/\/____/\/_/\/_/\/____/\/____/ \/_/\/_/  \/ / 
+ / /\.--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--..--./ /\ 
+/ /\ \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \.. \/\ \
+\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `'\ `' /
+ `--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--'`--' 
+
+term% man plastic-bottleneck
+
+    PLASTIC-BOTTLENECK(1)         User Manual         PLASTIC-BOTTLENECK(1)
+
+NAME
+       Plastic Bottleneck — Plan9 and OpenBSD enjoyer B)
+
+SYNOPSIS
+       Hi, my name is Plastic Bottleneck! I’m a student from Germany
+       working with computers and other technology stuff!
+
+DESCRIPTION
+       I am interested in various scientific fields, including astronomy, 
+       meteorology, radio operations, and computer science.
+
+       Collecting computers has been a hobby of mine for as long as I can 
+       remember. To date, I’ve collected around 49 of them!
+
+       The oldest one in my collection is the Sperry Univac (1955).
+
+       When I was young, I got my first Commodore C64 from a friend. Programming 
+       on it was a lot of fun! 
+       Sadly, a bad power supply bricked it.
+       The MOS6502 fascinated me because it can run basically anything! 
+       That’s how I got into programming a bit of 6502 assembly back then. 
+       Now, I primarily program in C — which I LOVE! I've also done some HDA
+       and other chipprograming!
+
+       My main operating systems in daily use: OpenBSD and 9front
+       The 9front grid consists of:
+       -> 1 file server
+       -> 1 authentication server
+       -> 16 CPU servers
+
+       I primarily use OpenBSD and 9front over Linux because of the stability 
+       and the super clean codebase they provide.
+
+       Radios fascinate me too! I have built multiple antennas for different 
+       purposes, such as receiving NOAA weather satellite images or QSOs from 
+       around the world at night.
+
+       One day, I want to complete my ham radio exam and go live like the other 
+       cool operators!
+
+       Another hobby I love is playing the piano and church organ. 
+       I’ve been doing this for nearly 14 years now.
+       I also collect instruments.
+       In total I've got one grand piano, one upright piano, 3 harpsicords
+       and 5 organs!
+
+CONTACT
+       IRC: irc.libera.chat
+       Nick: plbn
+       Channel: #plan9 ##chat #linux #hamradio
+
+       So that’s it! Have a good day.
+
+AUTHOR
+       Plastic Bottleneck
+
+term%
+    </pre>
+  </foreignObject>
+
+  <!-- Cursor two lines up from the bottom -->
+  <rect x="70" y="1570" width="8" height="15" fill="#ffb000">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </rect>
+
+</svg> 
